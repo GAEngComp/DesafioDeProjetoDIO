@@ -42,9 +42,9 @@ Se o MEGANIUM RG35XX tem alto volume de vendas na França e Reino Unido, pode se
 
 ✅ **Ação:**
 
-Identificar países/regiões com maior volume de vendas.
-Comparar a receita média por país.
-Analisar custos de envio e logística para cada mercado.
+- Identificar países/regiões com maior volume de vendas.
+- Comparar a receita média por país.
+- Analisar custos de envio e logística para cada mercado.
 
 🔹 **Exemplo de insight:**
 
@@ -56,9 +56,9 @@ Se o Canadá tem maior ticket médio, pode ser estratégico investir mais em cam
 
 ✅ **Ação:**
 
-Comparar vendas com e sem desconto.
-Analisar quais cupons geraram maior retorno.
-Identificar se clientes retornam para compras futuras após usarem cupons.
+- Comparar vendas com e sem desconto.
+- Analisar quais cupons geraram maior retorno.
+- Identificar se clientes retornam para compras futuras após usarem cupons.
 
 🔹 **Exemplo de insight:**
 Se um cupom está sendo muito usado, mas as margens caíram, pode ser necessário ajustar a estratégia para evitar prejuízos.
@@ -69,9 +69,9 @@ Se um cupom está sendo muito usado, mas as margens caíram, pode ser necessári
 
 ✅ **Ação:**
 
-Analisar quais SKUs têm maior saída.
-Comparar preços médios pagos pelos consumidores.
-Identificar padrões de compra por faixa etária ou país.
+- Analisar quais SKUs têm maior saída.
+- Comparar preços médios pagos pelos consumidores.
+- Identificar padrões de compra por faixa etária ou país.
 
 🔹 **Exemplo de insight:**
 
@@ -83,9 +83,9 @@ Se clientes no Japão preferem um modelo específico com um preço maior, a fabr
 
 ✅ **Ação:**
 
-Identificar atrasos frequentes na entrega.
-Analisar custos de frete por região.
-Avaliar quais transportadoras têm melhor desempenho.
+- Identificar atrasos frequentes na entrega.
+- Analisar custos de frete por região.
+- Avaliar quais transportadoras têm melhor desempenho.
 
 🔹 **Exemplo de insight:**
 
