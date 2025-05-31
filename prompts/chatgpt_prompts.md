@@ -1,0 +1,1 @@
+A partir dos dados que acabei de enviar, crie tabelas com opção de download que indiquem quais países tem as maiores quantidades de produtos vendidos, quais faixas etárias compram mais produtos e quais e, por fim, qual a margem de lucro por país (após conversão de cada moeda em real) e por produto.
